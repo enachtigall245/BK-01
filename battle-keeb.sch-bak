@@ -321,7 +321,7 @@ U 1 1 619FCBAB
 P 9600 2300
 F 0 "J2" H 9707 3167 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 9707 3076 50  0000 C CNN
-F 2 "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" H 9750 2300 50  0001 C CNN
+F 2 "Type-C:HRO-TYPE-C-31-M-12" H 9750 2300 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 9750 2300 50  0001 C CNN
 	1    9600 2300
 	1    0    0    -1  
